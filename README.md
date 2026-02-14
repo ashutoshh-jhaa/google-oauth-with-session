@@ -55,7 +55,7 @@ This project demonstrates session-based authentication without a database, stori
 ## Setup Instructions
 
 ### 1. Clone the repository
-`git clone <https://github.com/ashutoshh-jhaa/google-oauth-with-session.git> cd <google-oauth-with-session>` 
+`git clone https://github.com/ashutoshh-jhaa/google-oauth-with-session.git cd google-oauth-with-session` 
 
 ----------
 
