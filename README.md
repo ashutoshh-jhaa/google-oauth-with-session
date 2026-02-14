@@ -89,7 +89,7 @@ GOOGLE_CALLBACK_URL=http://localhost:4000/auth/google/callback
 ----------
 
 ### 5. Run the server
-`node index.js` 
+`npm start` 
 - Visit:
 `http://localhost:4000` 
 
